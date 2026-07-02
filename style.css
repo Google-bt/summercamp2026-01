@@ -69,3 +69,16 @@ nav {
     width: fit-content;
     display: inline-block;
 }
+
+button {
+    padding: 20px 20px;
+    font-size: 50px;
+    border-radius: 8px;
+    border: rgb(255, 198, 198) solid 4px;
+    background: rgb(255, 93, 93);
+    color: white;
+    cursor: pointer;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
